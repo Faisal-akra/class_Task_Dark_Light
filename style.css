@@ -1,0 +1,63 @@
+*{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#main{
+    margin-top: 25%;
+}
+
+.non{
+    background-color: white;
+}
+.active{
+    background-color: black;
+}
+
+
+
+
+#button{
+    width: 25vh;
+    height: 5vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #main{
+    margin-top: 25%;
+} */
+/* .light{
+    background-color: black;
+    cursor: pointer;
+
+} */
+
+/* body{
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.light{
+    background-color: black;
+    color: #ecf0f1;
+
+}
+ */
+
